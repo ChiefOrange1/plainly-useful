@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chieforange1.github.io/plainly-useful/sitemap.xml
